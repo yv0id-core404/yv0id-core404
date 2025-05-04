@@ -53,12 +53,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yv0id-core404/yv0id-core404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yv0id-core404/yv0id-core404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yv0id-core404/yv0id-core404/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <p align="center">your only limit is your mind</p>
